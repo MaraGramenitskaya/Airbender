@@ -1,0 +1,39 @@
+.About{
+    background-color:  #fff;
+    color: #3599af;
+    width: 100%;
+    margin: 0 0px;
+    padding: 1.5% 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.air{
+    margin-right: 2%;
+    border-radius: 0;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+p{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    font-size: 25px;
+}
+
+.water{
+    padding-top: 1%;
+    margin-left: 0px;
+    border-radius: 0;
+    vertical-align: middle;
+}
+
+.Border{
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
