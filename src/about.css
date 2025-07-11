@@ -3,13 +3,12 @@
     color: #3599af;
     width: 100%;
     margin: 0 0px;
-    padding: 1.5% 0px;
     display: flex;
     flex-direction: row;
 }
 
 .air{
-    margun-left: 1%;
+    margin-left: 1%;
     border-radius: 0;
     display: table-cell;
     vertical-align: middle;
@@ -20,8 +19,7 @@ p{
     font-size: 25px;
 }
 
-.water{
-    padding-top: 1%;
+.water{i
     margin-right: 1%;
     border-radius: 0;
     vertical-align: middle;
