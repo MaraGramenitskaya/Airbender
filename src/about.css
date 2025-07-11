@@ -9,21 +9,20 @@
 }
 
 .air{
-    margin-right: 2%;
+    margun-left: 1%;
     border-radius: 0;
     display: table-cell;
     vertical-align: middle;
 }
 
 p{
-    padding-top: 1.5%;
-    padding-bottom: 1.5%;
+    padding: 1%;
     font-size: 25px;
 }
 
 .water{
     padding-top: 1%;
-    margin-left: 0px;
+    margin-right: 1%;
     border-radius: 0;
     vertical-align: middle;
 }
